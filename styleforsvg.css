@@ -1,0 +1,13 @@
+.call {
+    height: 15px;
+}
+.text-1 {
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 0px; 
+    color: white;
+    font-family: arial;
+}
+.cart-icon {
+    height: 30px;
+}
